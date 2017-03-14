@@ -1,0 +1,14 @@
+{
+  "name": "w2d1-ex2",
+  "version": "1.0.0",
+  "description": "Scripting HTTP Requests with the Request Package ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mshin",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
